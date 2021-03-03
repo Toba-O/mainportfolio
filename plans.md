@@ -2,6 +2,8 @@
 - Main color 
 >(navy blue): #414a6b
 
+> especially good for text
+
 - Other colors
 > (off white): #f8f8f8
 
