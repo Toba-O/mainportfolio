@@ -1,4 +1,4 @@
-### Colors
+# Colors
 - Main color 
 >(navy blue): #414a6b
 
