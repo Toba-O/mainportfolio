@@ -17,4 +17,4 @@
 
 # Other
 - https://www.a11yproject.com/checklist/
-- 
+- underline left animation for nav links
