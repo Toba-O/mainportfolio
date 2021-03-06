@@ -27,9 +27,11 @@
 
 -User interface design (UID)
 
--Mobile app design &amp; development
-
 -Digital communication 
+
+-Social media management
+
+-Mobile app design &amp; development
 
 -User flows &amp; user journeys
 
