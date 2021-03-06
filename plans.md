@@ -18,7 +18,7 @@
 ### Other
 - https://www.a11yproject.com/checklist/
 - underline left animation for nav links
-- Home, About, Projects, Blog, Contact
+- Home, About, Work, Blog, Contact
 - Dark mode
 
 ### Services
