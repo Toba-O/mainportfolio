@@ -19,6 +19,12 @@
 - https://www.a11yproject.com/checklist/
 - underline left animation for nav links
 - Home, About, Work, Blog, Contact
+> Footer will have About, Work, Blog
+
+> Then another column for Contact, Privacy Policy
+
+> Then another column with map marker icon and "based in the USA", maybe add email icon with address under
+ 
 - Dark mode
 
 ## Services
