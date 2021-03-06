@@ -20,3 +20,11 @@
 - underline left animation for nav links
 - Home, About, Projects, Blog, Contact
 - Dark mode
+
+### services
+-Website design &amp; development
+-Mobile app design &amp; development
+-Digital communication campaigns
+-User flows &amp; user journeys
+-User interface design (UID)
+-Front-end &amp; back-end development
