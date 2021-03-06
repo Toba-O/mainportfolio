@@ -22,9 +22,14 @@
 - Dark mode
 
 ### services
--Website design &amp; development
--Mobile app design &amp; development
--Digital communication campaigns
--User flows &amp; user journeys
+-Full stack website design &amp; development
+> aka Front-end &amp; back-end development
+
 -User interface design (UID)
--Front-end &amp; back-end development
+
+-Mobile app design &amp; development
+
+-Digital communication 
+
+-User flows &amp; user journeys
+
