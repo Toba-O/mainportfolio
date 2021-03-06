@@ -14,3 +14,7 @@
 > (off black): #1f222b
 
 # Font
+
+# Other
+- https://www.a11yproject.com/checklist/
+- 
