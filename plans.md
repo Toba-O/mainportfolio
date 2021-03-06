@@ -1,4 +1,4 @@
-### Colors
+## Colors
 - Main color 
 >(navy blue): #414a6b
 
@@ -13,15 +13,16 @@
 
 > (off black): #1f222b
 
-### Font
+## Font
 
-### Other
+## Other
 - https://www.a11yproject.com/checklist/
 - underline left animation for nav links
 - Home, About, Work, Blog, Contact
 - Dark mode
 
-### Services
+## Services
+### Web Services
 - Full stack website design &amp; development
 > aka Front-end &amp; back-end development
 
@@ -34,4 +35,4 @@
 - Mobile app design &amp; development
 
 - User flows &amp; user journeys
-
+### Computational biology stuff
