@@ -36,3 +36,5 @@
 
 - User flows &amp; user journeys
 ### Computational biology stuff
+- academic research
+- data analysis
