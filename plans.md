@@ -43,6 +43,8 @@
 - Mobile app design &amp; development
 
 ### Computational biology skillset
+- General laboratory skills
+
 - Academic research
 
 - Report writing
