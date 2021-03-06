@@ -1,4 +1,4 @@
-# Colors
+### Colors
 - Main color 
 >(navy blue): #414a6b
 
@@ -13,8 +13,10 @@
 
 > (off black): #1f222b
 
-# Font
+### Font
 
-# Other
+### Other
 - https://www.a11yproject.com/checklist/
 - underline left animation for nav links
+- Home, About, Projects, Blog, Contact
+- Dark mode
