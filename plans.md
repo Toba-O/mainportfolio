@@ -36,13 +36,16 @@
 
 - Mobile app design &amp; development
 
-- User flows &amp; user journeys
-- 
 ### Computational biology stuff
 - Academic research
+
 - Report writing
+
 - Data analysis & visualization
+
 - Python programming
+
 - Programming with R
+
 - Tools for bioinformatics
 
