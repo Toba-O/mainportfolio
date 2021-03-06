@@ -27,7 +27,7 @@
 
 - User interface design (UID)
 
-- Digital communication 
+- Digital communication experience
 
 - Social media management
  
