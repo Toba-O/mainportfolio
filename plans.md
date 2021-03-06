@@ -22,16 +22,16 @@
 - Dark mode
 
 ### services
--Full stack website design &amp; development
+- Full stack website design &amp; development
 > aka Front-end &amp; back-end development
 
--User interface design (UID)
+- User interface design (UID)
 
--Digital communication 
+- Digital communication 
 
--Social media management
+- Social media management
+ 
+- Mobile app design &amp; development
 
--Mobile app design &amp; development
-
--User flows &amp; user journeys
+- User flows &amp; user journeys
 
