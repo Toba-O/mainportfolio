@@ -22,7 +22,7 @@
 - Dark mode
 
 ## Services
-### Web based
+### Digital based skillset
 - Full stack website design &amp; development
 > aka Front-end &amp; back-end development
 
@@ -36,7 +36,7 @@
 
 - Mobile app design &amp; development
 
-### Computational biology stuff
+### Computational biology skillset
 - Academic research
 
 - Report writing
