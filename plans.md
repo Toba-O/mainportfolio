@@ -22,7 +22,7 @@
 - Dark mode
 
 ## Services
-### Web Services
+### Web based
 - Full stack website design &amp; development
 > aka Front-end &amp; back-end development
 
@@ -31,7 +31,9 @@
 - Digital communication experience
 
 - Social media management
- 
+
+- Search Engine Optimization (SEO)
+
 - Mobile app design &amp; development
 
 - User flows &amp; user journeys
