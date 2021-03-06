@@ -21,7 +21,7 @@
 - Home, About, Projects, Blog, Contact
 - Dark mode
 
-### services
+### Services
 - Full stack website design &amp; development
 > aka Front-end &amp; back-end development
 
