@@ -14,6 +14,9 @@
 > (off black): #1f222b
 
 ## Font
+- Libre Baskerville for fancy text
+- Lato
+- Poppins for friendly text
 
 ## Other
 - https://www.a11yproject.com/checklist/
