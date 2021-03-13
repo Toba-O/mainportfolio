@@ -13,6 +13,8 @@
 
 > (off black): #1f222b
 
+- Utilize 60-30-10 desgin rule?
+
 ## Font
 - Libre Baskerville for fancy text
 - Lato
