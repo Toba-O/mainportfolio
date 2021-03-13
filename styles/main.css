@@ -21,12 +21,12 @@ body {
 
 ::selection {
   background: #ffe987 !important;
-  color: rgb(33, 37, 41) !important;
+  color: #212529 !important;
 }
 
 ::-moz-selection {
   background: #ffe987 !important; /* Firefox */
-  color: rgb(33, 37, 41) !important;
+  color: #212529 !important;
 }
 
 .no-select {
