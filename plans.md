@@ -64,4 +64,4 @@
 
 
 ## framework
--tailwind or bootstrap?
+-Tailwind
