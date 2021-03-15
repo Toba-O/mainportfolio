@@ -55,6 +55,7 @@
 - Report writing
 
 - Data analysis & visualization
+ - test 
 
 - Python programming
 
