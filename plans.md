@@ -65,6 +65,6 @@
 - Tools for bioinformatics
 
 
-## Framework
+## Frameworks
 - Tailwind
 
