@@ -31,6 +31,7 @@
 > Then another column with map marker icon and "based in the USA", maybe add email icon with address under
  
 - Light Mode, Auto Mode, Dark mode
+
 - AOS animations
 
 ## Services
