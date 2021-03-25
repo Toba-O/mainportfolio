@@ -36,6 +36,10 @@
 
 - Preloader likely
 
+- "Quick links" for portfolio page.
+> Header at top asking "Well, where do you wanna go?", with "Science-y- end" | "Tech end" both linking to section id's below header
+> Header question could also be "Which side would you like to see?"
+
 ## Services
 ### Digital based skillset
 - Full stack website design &amp; development
