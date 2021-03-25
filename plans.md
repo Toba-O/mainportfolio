@@ -34,6 +34,8 @@
 
 - AOS animations
 
+- Preloader likely
+
 ## Services
 ### Digital based skillset
 - Full stack website design &amp; development
