@@ -47,7 +47,7 @@ body {
   font-weight: 700;
   text-transform: lowercase;
   color: #414a6b !important;
-  font-size: 1.75rem;
+  font-size: 1.75rem !important;
   position: relative;
   margin-top: 2%;
   vertical-align: text-top !important;
@@ -64,19 +64,23 @@ body {
   cursor: pointer;
   padding-left: 2rem !important;
 }
+
 .nav-item .nav-link:hover {
   color: #414a6b !important;
 }
+
 .navbar-light .nav-item .nav-link:active,
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:hover .nav-link {
   color: #000;
 }
+
 .fa-github {
   font-size: 1.5rem;
   vertical-align: middle !important;
 }
+
 @media (max-width: 480px) {
   .navresp {
     float: left !important;
