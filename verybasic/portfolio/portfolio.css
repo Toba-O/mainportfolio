@@ -104,6 +104,7 @@ body {
   }
 }
 
+/** Tiles/Main Content **/
 main {
   overflow: hidden;
   position: relative;
