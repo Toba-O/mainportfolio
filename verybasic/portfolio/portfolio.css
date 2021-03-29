@@ -111,7 +111,7 @@ main {
 
 .content {
   padding: 3rem;
-  min-height: 50vh;
+  min-height: 65vh;
   display: flex;
   position: relative;
   flex-direction: column;
