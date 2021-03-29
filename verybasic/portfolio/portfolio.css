@@ -18,19 +18,16 @@ body {
   overflow-x: hidden !important;
   margin: 0;
   background: #e3e2e7;
-  margin: 0;
   --color-text: #414a6b;
   --color-bg: #e3e2e7;
   --color-link: #aaa;
   --color-link-hover: #fff;
   --color-alt: #1f222b;
-  color: var(--color-text);
-  transition: background-color 0.5s ease;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  color: #414a6b;
   counter-reset: contentSection;
   font-family: neuzeit-grotesk, sans-serif;
 }
+
 ::selection {
   background: #ffe987 !important;
   color: #212529 !important;
