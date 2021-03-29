@@ -3,6 +3,7 @@ html {
   scroll-behavior: smooth;
   box-sizing: border-box;
 }
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -34,7 +35,7 @@ body {
 
 /** Nav **/
 .nav-menu-top {
-  padding-top: 25px;
+  padding-top: 25px !important;
 }
 
 .navbar-toggler {
