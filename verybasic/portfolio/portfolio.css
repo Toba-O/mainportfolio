@@ -18,11 +18,6 @@ body {
   overflow-x: hidden !important;
   margin: 0;
   background: #e3e2e7 !important;
-  --color-text: #414a6b;
-  --color-bg: #e3e2e7;
-  --color-link: #aaa;
-  --color-link-hover: #fff;
-  --color-alt: #1f222b;
   color: #414a6b;
   counter-reset: contentSection;
   font-family: neuzeit-grotesk, sans-serif;
@@ -155,6 +150,7 @@ main {
   max-width: 800px;
   will-change: transform;
   font-family: "Lato", sans-serif;
+  color: #414a6b;
 }
 
 .content__text {
