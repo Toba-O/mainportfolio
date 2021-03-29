@@ -111,7 +111,7 @@ main {
 
 .content {
   padding: 3rem;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   position: relative;
   flex-direction: column;
@@ -538,5 +538,5 @@ html.has-scroll-dragging {
 
 .otherh {
   color: #1f222b;
-  margin-top: 16rem;
+  margin-top: 7.5rem;
 }
