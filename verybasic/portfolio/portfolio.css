@@ -471,28 +471,6 @@ html.has-scroll-dragging {
 }
 
 @media screen and (min-width: 53em) {
-  .frame {
-    display: grid;
-    align-content: space-between;
-    width: 100%;
-    grid-gap: 5vw;
-    grid-template-columns: auto auto auto 1fr;
-    grid-template-areas: "title title links demos";
-  }
-  .frame__title {
-    margin: 0;
-    grid-area: title;
-  }
-  .frame__demos {
-    margin: 0;
-    grid-area: demos;
-    justify-self: end;
-  }
-  .frame__links {
-    grid-area: links;
-    padding: 0;
-    justify-self: end;
-  }
   .tiles--columns-rotated .tiles__line {
     width: 33vmax;
   }
