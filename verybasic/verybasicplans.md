@@ -1,1 +1,2 @@
 - Add that overflow slide up animation text to portfolio header
+- Add square slide up (hover) to breadcrumb directory links
