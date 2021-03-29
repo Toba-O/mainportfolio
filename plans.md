@@ -72,5 +72,5 @@
 
 
 ## Frameworks
-- Tailwind
+- TailwindCSS for official page
 
