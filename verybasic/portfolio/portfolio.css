@@ -17,7 +17,7 @@ html {
 body {
   overflow-x: hidden !important;
   margin: 0;
-  background: #e3e2e7;
+  background: #e3e2e7 !important;
   --color-text: #414a6b;
   --color-bg: #e3e2e7;
   --color-link: #aaa;
