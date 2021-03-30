@@ -470,7 +470,7 @@ html.has-scroll-dragging {
     counter-increment: contentSection;
     content: counter(contentSection, decimal-leading-zero);
     position: absolute;
-    top: 50%;
+    top: 40%;
     right: 3rem;
     border: 1px solid;
     color: #1f222b;
