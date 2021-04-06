@@ -18,7 +18,7 @@ html {
 body {
   overflow-x: hidden !important;
   margin: 0;
-  background: #f8f8f8 !important;
+  background: #e3e2e7 !important;
   color: #414a6b;
   counter-reset: contentSection;
   font-family: neuzeit-grotesk, sans-serif;
