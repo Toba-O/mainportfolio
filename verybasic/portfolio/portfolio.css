@@ -62,7 +62,6 @@ body {
   position: relative;
   transition: 0.5s ease;
   cursor: pointer;
-  padding-left: 2rem !important;
 }
 
 .nav-item .nav-link:hover {
@@ -104,6 +103,9 @@ body {
   }
 }
 
+.navspacing {
+  margin-right: 2rem;
+}
 /** Tiles/Main Content **/
 main {
   overflow: hidden;
