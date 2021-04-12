@@ -74,3 +74,11 @@
 ## Frameworks
 - TailwindCSS for official page (later)
 
+### stuff
+home page can have
+- depict of what year of schooling, field of study and what educational institution. note specific research interests, and small sentence saying "See my research statement here" (attach statement link new tab)
+- Depict personal lesser known interests, like music talent or reading, and lesser known things (very brief)
+
+### side notes
+- experiences can have teaching experiences and mentoring experiences
+ 
