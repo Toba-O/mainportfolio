@@ -82,4 +82,6 @@ home page can have
 ### side notes
 - experiences can have teaching experiences and mentoring experiences
 - awards can also have academic awards, grants, and workshops (if workshop competitively selected participants) 
+- research can have rsearch groups w/ accompanying research projects
+- speaking engaements can have general talks and research talks
 - link social media (github, twitter, linkedin)
