@@ -1,1 +1,2 @@
 - Fix navbar on mobile
+- fix old homepage on verybasic
